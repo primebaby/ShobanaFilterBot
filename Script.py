@@ -1,13 +1,12 @@
 class script(object):
     START_TXT = """ Hᴇʟʟᴏ {}.
-𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌.
-+ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 + 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇."""
+🤖 ɪ ᴀᴍ ᴛʜᴇ ᴍᴏꜱᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴍᴇᴅɪᴀ ᴘʀᴏᴠɪᴅᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇᴅ ᴀʟʟ ʟᴀᴛᴇꜱᴛ ᴍᴏᴠɪᴇꜱ  ꜱᴇʀɪᴇꜱ. ᴊᴜꜱᴛ ꜱᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ ɴᴀᴍᴇ ⚡️"""
     HELP_TXT = """
      Hey  {} 
 Currently using free server so please Dont kill Me...
 """
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://github.com/mntg4u> MN - TG</a>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me/MOVIE_LOVERZZ> MOVIE LOVERZZ</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
@@ -16,7 +15,7 @@ Currently using free server so please Dont kill Me...
 - Source - <ahref=https://github.com/mn-bots/ShobanaFilterBot>Click Here to get source code</a>
 
 <b>DEVS:</b>
--<a href=https://github.com/mntg4u> MN - TG</a>"""
+-<a href=https://t.me/Mladminbot> TONY </a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 - Filter is the feature were users can set automated replies for a particular keyword and shobana will respond whenever a keyword is found the message
 <b>NOTE:</b>
@@ -115,23 +114,14 @@ Added By - {}
 <blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+    
 FɪʟᴇSɪᴢᴇ : {file_size}
 
 ╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
- Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/mn_movies2)
- Jᴏɪɴ :- [Movie Group 1](https://t.me/mn_movies3)
- Jᴏɪɴ :- [Movie Group 2](https://t.me/malayalam_movies_group2)
- Jᴏɪɴ :- [Movie Group 3](https://t.me/Netflix_Group3)
- Jᴏɪɴ :- [Movie Group 4](https://t.me/cinima_theerthadana_kendram)
- Jᴏɪɴ :- [Movie Group 5](https://t.me/malayalam_movies_nbot)
- Jᴏɪɴ :- [Movie Group 6](https://t.me/seriesgroups)
- Jᴏɪɴ :- [Movie Group 7](https://t.me/New_indian_cinemas)
+ Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/MOVIE_LOVERZZ)
 ╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝
 
-⚠️ <b>This file will be deleted from here within 1 minute as it has copyright ... !!!</b>
-
-<b>കോപ്പിറൈറ്റ് ഉള്ളതുകൊണ്ട് ഫയൽ 1 മിനിറ്റിനുള്ളിൽ ഇവിടെനിന്നും ഡിലീറ്റ് ആകുന്നതാണ് അതുകൊണ്ട് ഇവിടെ നിന്നും മറ്റെവിടെക്കെങ്കിലും മാറ്റിയതിന് ശേഷം ഡൗൺലോഡ് ചെയ്യുക!</b>
-"""
+⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ©️ ... !!!</b>"""
 
     
     RESTART_GC_TXT = """
