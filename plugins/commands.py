@@ -175,9 +175,9 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
               [
-                  InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/new_ott_movies3'),
-                  InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mn_movies2'),
-                  InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mn-bots/ShobanaFilterBot')
+                  InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs 🎉​', url='https://t.me/new_ott_movies3'),
+                  InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🎭', url='https://t.me/movie_loverzz'),
+                  InlineKeyboardButton('Best Deals Channel 👕', url='https://t.me/amazon_flipkartt_offers')
          ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -198,13 +198,13 @@ async def start(client, message):
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
         ], [
-             InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/new_ott_movies3'),
-             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mn_movies2')
+             InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs 🎉​', url='https://t.me/new_ott_movies3'),
+             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🎭', url='https://t.me/mn_movies2')
         ],[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mn-bots/ShobanaFilterBot')
+            InlineKeyboardButton('Best Deals Channel 👕', url='https://t.me/amazon_flipkartt_offers')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_text("MOVIE_LOVERZ❤️❤️‍🩹💔") 
+        m=await message.reply_text("MOVIE_LOVERZ...❤️🎉") 
         await asyncio.sleep(1.2)
         await m.delete()
         await message.reply_photo(
@@ -237,13 +237,13 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ʜᴇʟᴘ ✨️', callback_data='help'),
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ 🧿', callback_data='about')
         ],[
-             InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/MOVIE_LOVERZZ'),
-             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/MOVIE_LOVERZZ')
+             InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​ 🎉', url='https://t.me/MOVIE_LOVERZZ'),
+             InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ 🎭', url='https://t.me/MOVIE_LOVERZZ')
         ],[
-            InlineKeyboardButton('Best Deals channel', url='https://t.me/amazon_flipkartt_offers')
+            InlineKeyboardButton('Best Deals channel 👕', url='https://t.me/amazon_flipkartt_offers')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
