@@ -113,11 +113,11 @@ Added By - {}
     RESULT_TXT="""<blockquote> Hey,     </blockquote>
 <blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
 
-    CUSTOM_FILE_CAPTION = """{filename}
+    CUSTOM_FILE_CAPTION = """{file_name}
 
 <b> ⚡ JOIN [MOVIE LOVERZ](https://t.me/Movie_loverzz) ⚡ </b>
 
-⚠️ This file will be deleted from here within 10 minute Because of copyright issues... !!!"""
+<blockquote>⚠️ This file will be deleted from here within 10 minute Because of copyright issues... !!!</blockquote>"""
 
     
     RESTART_GC_TXT = """
