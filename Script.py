@@ -69,7 +69,7 @@ Currently using free server so please Dont kill Me...
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of ShobanaFilterBot
+these are the extra features of this FilterBot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -113,15 +113,11 @@ Added By - {}
     RESULT_TXT="""<blockquote> Hey,     </blockquote>
 <blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
 
-    CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
-    
-FɪʟᴇSɪᴢᴇ : {file_size}
+    CUSTOM_FILE_CAPTION = """{file_caption}
 
-╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
- Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/MOVIE_LOVERZZ)
-╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝
+<b> ⚡ JOIN [MOVIE LOVERZ](https://t.me/Movie_loverzz) ⚡ </b>
 
-⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ©️ ... !!!</b>"""
+⚠️ This file will be deleted from here within 10 minute Because of copyright issues... !!!"""
 
     
     RESTART_GC_TXT = """
