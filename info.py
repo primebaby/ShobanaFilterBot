@@ -41,8 +41,8 @@ DEFAULT_AUTH_CHANNELS = [int(x) for x in environ.get("AUTH_CHANNEL", "-100194853
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://maxine11229:2d0NThJZDM9iSu48@cluster0.9qvbj.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "maxine")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://silversurfer:FE7qDqdLw1qapH6g@silversurfer.ak9iquc.mongodb.net/?retryWrites=true&w=majority&appName=Silversurfer")
+DATABASE_NAME = environ.get('DATABASE_NAME', "silversurfer")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'ml_files')
 
 # File Channel Settings
